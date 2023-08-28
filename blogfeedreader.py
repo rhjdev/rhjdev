@@ -5,7 +5,7 @@ feed = feedparser.parse(uri)
 markdown_text = """
 #### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhjdev&count_bg=%23555555&title_bg=%231F354A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Blog Badge](https://img.shields.io/badge/JReminder-1f354a?logo=Tistory&logoColor=white&link=https://developer-r.tistory.com)](https://developer-r.tistory.com)
+[![Blog Badge](https://img.shields.io/badge/Just%20A%20Reminder-1f354a?logo=Tistory&logoColor=white&link=https://developer-r.tistory.com)](https://developer-r.tistory.com)
 
 [![rhjdev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rhjdev&theme=github&bg_color=939195&line=728192&point=fe8071&area=true&radius=20)](https://github.com/rhjdev/github-readme-activity-graph)
 [![rhjdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhjdev&count_private=true&custom_title=rhjdev's&nbsp;Github&nbsp;Stats👀&hide_rank=false&rank_icon=github&bg_color=30,939195,1f354a&title_color=fff&text_color=fff&border_radius=10)](https://github.com/rhjdev)
