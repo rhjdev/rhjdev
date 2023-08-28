@@ -1,6 +1,7 @@
-### Hi there 👋
+
+#### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhjdev&count_bg=%23555555&title_bg=%231F354A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Blog Badge](https://img.shields.io/badge/Reminder-1f354a?logo=Tistory&logoColor=white&link=https://developer-r.tistory.com)](https://developer-r.tistory.com)
+[![Blog Badge](https://img.shields.io/badge/Just%20A%20Reminder-1f354a?logo=Tistory&logoColor=white&link=https://developer-r.tistory.com)](https://developer-r.tistory.com)
 
 [![rhjdev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rhjdev&theme=github&bg_color=939195&line=728192&point=fe8071&area=true&radius=20)](https://github.com/rhjdev/github-readme-activity-graph)
 [![rhjdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhjdev&count_private=true&custom_title=rhjdev's&nbsp;Github&nbsp;Stats👀&hide_rank=false&rank_icon=github&bg_color=30,939195,1f354a&title_color=fff&text_color=fff&border_radius=10)](https://github.com/rhjdev)
@@ -8,17 +9,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhjdev)](https://solved.ac/rhjdev)
 
-<!--
-**rhjdev/rhjdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📚Latest Blog Posts
+[[Spring/javax.mail.AuthenticationFailedException] 535-5.7.8 Username and Password not accepted](https://developer-r.tistory.com/212) <br>[[STS/Error] log cannot be resolved](https://developer-r.tistory.com/211) <br>[[Oracle/SQLDeveloper] 스크립트 내보내기(export)](https://developer-r.tistory.com/210) <br>[[CSS] 한 줄 출력 글자수 제한](https://developer-r.tistory.com/209) <br>[[Oracle/Exception] ORA-28001: 비밀번호가 만기되었습니다.](https://developer-r.tistory.com/208) <br>
