@@ -9,5 +9,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhjdev)](https://solved.ac/rhjdev)
 
-#### 📚Latest Blog Posts
-[[Spring/javax.mail.AuthenticationFailedException] 535-5.7.8 Username and Password not accepted](https://developer-r.tistory.com/212) <br>[[STS/Error] log cannot be resolved](https://developer-r.tistory.com/211) <br>[[Oracle/SQLDeveloper] 스크립트 내보내기(export)](https://developer-r.tistory.com/210) <br>[[CSS] 한 줄 출력 글자수 제한](https://developer-r.tistory.com/209) <br>[[Oracle/Exception] ORA-28001: 비밀번호가 만기되었습니다.](https://developer-r.tistory.com/208) <br>
+### 📚Latest Blog Posts
+[[GitHub/Python] 프로필에 최근 블로그 게시글 목록 불러오기](https://developer-r.tistory.com/213) <br>[[Spring/javax.mail.AuthenticationFailedException] 535-5.7.8 Username and Password not accepted](https://developer-r.tistory.com/212) <br>[[STS/Error] log cannot be resolved](https://developer-r.tistory.com/211) <br>[[Oracle/SQLDeveloper] 스크립트 내보내기(export)](https://developer-r.tistory.com/210) <br>[[CSS] 한 줄 출력 글자수 제한](https://developer-r.tistory.com/209) <br>
