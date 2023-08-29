@@ -13,7 +13,7 @@ markdown_text = """
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhjdev)](https://solved.ac/rhjdev)
 
-#### 📚Latest Blog Posts
+### 📚Latest Blog Posts
 """
 for i in feed['entries'][:5]:
     markdown_text += f"[{i['title']}]({i['link']}) <br>"
