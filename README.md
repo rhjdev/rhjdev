@@ -10,4 +10,4 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhjdev)](https://solved.ac/rhjdev)
 
 ### 📚Latest Blog Posts
-[[알고리즘/Java] 백준 1021번: 회전하는 큐](https://developer-r.tistory.com/215) <br>[[알고리즘/Java] 백준 14928번: 큰 수 (BIG)](https://developer-r.tistory.com/214) <br>[[GitHub/Python] 프로필에 최근 블로그 게시글 목록 불러오기](https://developer-r.tistory.com/213) <br>[[Spring/Exception] 535-5.7.8 Username and Password not accepted](https://developer-r.tistory.com/212) <br>[[STS/Error] log cannot be resolved](https://developer-r.tistory.com/211) <br>
+[[Spring Boot/문구 쇼핑몰 프로젝트] Jasypt 활용 프로퍼티 암복호화](https://developer-r.tistory.com/216) <br>[[알고리즘/Java] 백준 1021번: 회전하는 큐](https://developer-r.tistory.com/215) <br>[[알고리즘/Java] 백준 14928번: 큰 수 (BIG)](https://developer-r.tistory.com/214) <br>[[GitHub/Python] 프로필에 최근 블로그 게시글 목록 불러오기](https://developer-r.tistory.com/213) <br>[[Spring/Exception] 535-5.7.8 Username and Password not accepted](https://developer-r.tistory.com/212) <br>
